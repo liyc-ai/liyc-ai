@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+- 🔭 I’m currently working on Artificial Intelligence, especially Reinforcement Learning!
 
 <!--
 **BepfCp/BepfCp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
