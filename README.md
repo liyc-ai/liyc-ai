@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Artificial Intelligence, especially Reinforcement Learning.
 
+![BepfCp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bepfcp&show_icons=true&bg_color=00000000)
+
 <!--
 **BepfCp/BepfCp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
